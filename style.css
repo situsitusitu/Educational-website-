@@ -227,7 +227,7 @@ a, button {
 	opacity: 1;
 }
 /*Common things in all sections*/
-#about_section, #portfolio_section, #team_section, #services_section, #contactus_section {
+#about_section, #courses_section, #tests_section, #services_section, #contactus_section {
 	font-family: 'Open Sans', sans-serif;
 	color: #2E3D49;
 	position: relative;
@@ -245,7 +245,7 @@ a, button {
 	font-size: 1.1em;
 }
 
-/*PORTFOLIO*/
+/*COURSES*/
 .extra {
 	width: 100%;
 }
@@ -382,7 +382,7 @@ a, button {
 	margin-right: 20px;
 }
 
-/*TEAM SECTION*/
+/*TESTS SECTION*/
 .totalcard {
 	width: 100%;
 	display: flex;
